@@ -1,0 +1,12 @@
+.calculator {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    background-color: #F0F8FF;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
